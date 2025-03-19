@@ -19,8 +19,8 @@
         "Region": "Chennai",
         "SPL Code": 622
     },
-    "DELHI NCR": {
-        "Region": "Delhi NCR",
+    "DELHI": {
+        "Region": "Delhi",
         "SPL Code": 926
     },
     "HYDERABAD": {
@@ -66,5 +66,18 @@
     "PATNA": {
         "Region": "Patna",
         "SPL Code": 640
+    },
+        "ROTN": {
+        "Region": "ROTN",
+        "SPL Code": 622
+    },
+ "ANDHRA PRADESH": {
+        "Region": "ANDHRA PRADESH",
+        "SPL Code": 617
+    },
+    "NCR": {
+        "Region": "NCR",
+        "SPL Code": 926
     }
+    
 }
